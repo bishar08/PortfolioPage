@@ -1,8 +1,8 @@
 # PortfolioPage
-This is my 1st personal website and my portfolio. The goal is to express yourself and show your skills.
+This is my 1st personal website and my portfolio. The goal is to express myself and show my skills.
 
-The goal is develop this website and the course proceeds.
+Also the gosl is to develop this website as the course proceeds.
 
-Also they plays a role in tracking your progress and seeing how far you came.
+Also it plays a role in tracking my progress and seeing how far I came.
 
 
